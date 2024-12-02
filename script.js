@@ -20,5 +20,5 @@ function firstNonRepeatedChar(str) {
 }
 const input = prompt("Enter a string");
 
-let res = console.log(firstNonRepeatedChar(input));
-alert(console.log(firstNonRepeatedChar(input))); 
+let res = (firstNonRepeatedChar(input));
+alert(res); 
